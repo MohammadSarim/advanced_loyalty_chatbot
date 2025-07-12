@@ -1,0 +1,11 @@
+gradio 
+langchain 
+chromadb
+pypdf
+pandas
+groq
+openai
+pyprojroot
+langchain-community
+sentence-transformers
+tiktoken
